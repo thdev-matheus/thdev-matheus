@@ -92,6 +92,7 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 [![burguer kenzie](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-burguer-kenzie)](https://github.com/thdev-matheus/th-matheus-burguer-kenzie)
 [![rick and morthy](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-cards-rick-an-morthy)](https://github.com/thdev-matheus/th-matheus-cards-rick-an-morthy)
 [![nuKenzie](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-nukenzie)](https://github.com/thdev-matheus/th-matheus-nukenzie)
+[![doit](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-doit)](https://github.com/thdev-matheus/th-matheus-doit)
 
 ## Vanilla.js
 
