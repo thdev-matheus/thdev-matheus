@@ -80,7 +80,7 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 
 <br/>
 
-## **Fullstack**
+# **Fullstack**
 
 <br/>
 
@@ -91,7 +91,7 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 
 <br/>
 
-## **Frontend**
+# **Frontend**
 
 <br/>
 
@@ -127,7 +127,7 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 
 <br/>
 
-## **Backend**
+# **Backend**
 
 <br/>
 
