@@ -100,6 +100,8 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 <br/>
 
 [![Antecipation Calculator](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=frontend-antecipation-calculator)](https://github.com/thdev-matheus/frontend-antecipation-calculator)
+[![Doit](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-doit
+)](https://github.com/thdev-matheus/th-matheus-doit)
 [![kenziehub](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-kenzie-hub)](https://github.com/thdev-matheus/th-matheus-kenzie-hub)
 [![nuKenzie](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-nukenzie)](https://github.com/thdev-matheus/th-matheus-nukenzie)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-github-card)](https://github.com/thdev-matheus/th-matheus-github-card)
