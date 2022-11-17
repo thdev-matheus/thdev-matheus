@@ -11,16 +11,10 @@ Trabalho como Peer Coach na Kenzie Academy Brasil e AMO ensinar, para mim é qua
 Estou estudando agora Typescript, Node.Js, Express (Kenzie) e React.Native(Por conta)
 
 Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu possa trabalhar mas sem abrir mão dos estudos.
-
-<br/>
-
-## Link do portfólio
-https://th-matheus-portfolio-theus.vercel.app/
-
 <br/>
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.hilustra/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.h.ilustra/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th-matheus/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thdev-matheus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TH__Matheus)
@@ -49,7 +43,6 @@ https://th-matheus-portfolio-theus.vercel.app/
     <img align="center" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
     <img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img align="center" alt="android studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div>
 <br/>
 
@@ -87,19 +80,33 @@ https://th-matheus-portfolio-theus.vercel.app/
 
 <br/>
 
+## **Fullstack**
+
+<br/>
+
+### **Talks**
+
+[![Talks Backend](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-talks-django)](https://github.com/thdev-matheus/backend-talks-django)
+[![Talks Frontend](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=frontend-talks-react)](https://github.com/thdev-matheus/frontend-talks-react)
+
+<br/>
+
+## **Frontend**
+
+<br/>
+
 ## React.js
 
 <br/>
 
-[![barra sucesso](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-barra-sucesso)](https://github.com/thdev-matheus/th-matheus-barra-sucesso)
-[![talks](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-talks)](https://github.com/thdev-matheus/th-matheus-talks)
+[![Antecipation Calculator](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=frontend-antecipation-calculator)](https://github.com/thdev-matheus/frontend-antecipation-calculator)
 [![kenziehub](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-kenzie-hub)](https://github.com/thdev-matheus/th-matheus-kenzie-hub)
+[![nuKenzie](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-nukenzie)](https://github.com/thdev-matheus/th-matheus-nukenzie)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-github-card)](https://github.com/thdev-matheus/th-matheus-github-card)
+[![barra sucesso](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-barra-sucesso)](https://github.com/thdev-matheus/th-matheus-barra-sucesso)
 [![formulario de cadastro](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-formulario-de-cadastro)](https://github.com/thdev-matheus/th-matheus-formulario-de-cadastro)
 [![burguer kenzie](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-burguer-kenzie)](https://github.com/thdev-matheus/th-matheus-burguer-kenzie)
 [![rick and morthy](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-cards-rick-an-morthy)](https://github.com/thdev-matheus/th-matheus-cards-rick-an-morthy)
-[![nuKenzie](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-nukenzie)](https://github.com/thdev-matheus/th-matheus-nukenzie)
-[![doit](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-doit)](https://github.com/thdev-matheus/th-matheus-doit)
 
 ## Vanilla.js
 
@@ -117,3 +124,32 @@ https://th-matheus-portfolio-theus.vercel.app/
 
 [![imc](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-imc)](https://github.com/thdev-matheus/th-matheus-imc)
 [![Sorteador](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=th-matheus-sorteador)](https://github.com/thdev-matheus/th-matheus-sorteador)
+
+<br/>
+
+## **Backend**
+
+<br/>
+
+## Node.JS/Express.JS
+
+<br/>
+
+[![Talks Node](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-talks-express-node)](https://github.com/thdev-matheus/backend-talks-express-node)
+[![On Trip](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-on-trip-node-express)](https://github.com/thdev-matheus/backend-on-trip-node-express)
+[![Crud de usuário](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-crud-de-usuario-node-express)](https://github.com/thdev-matheus/backend-crud-de-usuario-node-express)
+[![Prod e Cat](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-produtos-categorias-node-express)](https://github.com/thdev-matheus/backend-produtos-categorias-node-express)
+[![Crud Typeorm Postgres](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-crud-typeorm-postgres-node-express)](https://github.com/thdev-matheus/backend-crud-typeorm-postgres-node-express)
+[![Kimoveis](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-kimoveis-node-express)](https://github.com/thdev-matheus/backend-kimoveis-node-express)
+<br/>
+
+## Python/Django
+
+<br/>
+
+[![Ticket Master](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-ticket-master-django)](https://github.com/thdev-matheus/backend-ticket-master-django)
+[![Komercio](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-komercio-django)](https://github.com/thdev-matheus/backend-komercio-django/settings)
+[![KMDB](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-kmdb-django)](https://github.com/thdev-matheus/backend-kmdb-django)
+[![Kenzie Pets](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-kenzie-pets-django)](https://github.com/thdev-matheus/backend-kenzie-pets-django)
+[![Kontent](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-kontent-django)](https://github.com/thdev-matheus/backend-kontent-django)
+
