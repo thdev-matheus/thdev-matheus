@@ -153,3 +153,6 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 [![Kenzie Pets](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-kenzie-pets-django)](https://github.com/thdev-matheus/backend-kenzie-pets-django)
 [![Kontent](https://github-readme-stats.vercel.app/api/pin/?username=thdev-matheus&repo=backend-kontent-django)](https://github.com/thdev-matheus/backend-kontent-django)
 
+<br />
+
+É isso! espero que gostem e se precisar, basta entrar em contato.
