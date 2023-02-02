@@ -26,6 +26,10 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 <br/>
 <br/>
 
+![snake gif](https://github.com/thdev-matheus/thdev-matheus/blob/output/github-contribution-grid-snake.gif)
+<br/>
+<br/>
+
 ## Tecnologias Que eu Uso:
 
 ### Dev:
@@ -69,11 +73,10 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 <div style="display: inline_block"><br/>
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-    
 </div>
 <br/>
 <br/>
 
-Você pode entrar em contato comigo através das redes sociais ou do meu Whatsapp
+Entre em contato comigo através das redes sociais ou do meu Whatsapp
 
 [![Codewars](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996336588?text=Ol%C3%A1%2C+vim+atrav%C3%A9s+do+contato+no+github.)
