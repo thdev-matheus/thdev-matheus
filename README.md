@@ -24,9 +24,6 @@ Ainda há muito o que aprender então tudo o que eu busco é um lugar onde eu po
 <br/>
 <br/>
 
-![snake gif](https://github.com/thdev-matheus/thdev-matheus/blob/output/github-contribution-grid-snake.gif)
-<br/>
-<br/>
 
 ## Tecnologias Que eu Uso:
 
